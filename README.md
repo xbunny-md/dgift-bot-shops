@@ -1,0 +1,1 @@
+# dgift-bot-shops
